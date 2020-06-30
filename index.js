@@ -6,4 +6,4 @@ server.get("/", (req, res) => {
     res.send("Hola Martin");
 })
 
-server.listen(3000);
+server.listen(80);
